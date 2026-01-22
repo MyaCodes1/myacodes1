@@ -45,7 +45,8 @@
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" height="40" alt="cisco logo"/>
+
 
   <img width="12" />
 
