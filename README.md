@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student interested in software engineering and machine learning engineering <br><br>
+<p align="left">I'm a First-Class Computer Science graduate interested in software engineering and machine learning engineering <br><br>
 🎨I also love front-end development and creating clean, responsive interfaces <br>
 📚 Always trying to learn new tools, frameworks and best practices to level up my skills<br>
 
