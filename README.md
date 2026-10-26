@@ -31,9 +31,9 @@
 
 ###
 
-<p align="left">I'm a First-Class Computer Science graduate interested in software engineering and machine learning engineering <br><br>
-🎨I also love front-end development and creating clean, responsive interfaces <br>
-📚 Always trying to learn new tools, frameworks and best practices to level up my skills<br>
+<p align="left">I'm a First-Class Computer Science graduate passionate about building software and creating technology that solves real-world problems. <br><br>
+<br>💻 Interested in Software Engineering, Fintech and AI <br>
+🌱 Always trying to learn new tools, technologies and frameworks and best practices to grow as an engineer!
 
 </p>
 
